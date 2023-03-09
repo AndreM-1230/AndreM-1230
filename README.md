@@ -1,6 +1,6 @@
 ### Hi there I'm Andre👋
 # 💫 About Me:
-I'm currently learning PHP
+I'm currently learning PHP & JS
 
 
 ## 🌐 Socials:
