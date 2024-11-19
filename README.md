@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+certified+software+developer)](https://git.io/typing-svg)<br/>
 <p>I'm currently working on <span style="color:red;">PHP</span> & <span style="color:red;">jQuery</span> and learning <span style="color:red;">Flutter</span></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=studied+c++,+c#,+python+languages)](https://git.io/typing-svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🌐 Socials:
